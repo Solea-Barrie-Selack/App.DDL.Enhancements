@@ -1,0 +1,92 @@
+
+
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# Eclipse Core
+.project
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# PDT-specific
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# TeXlipse plugin
+.texlipse
+
+.tern-project
+
+
+*~
+*-ext.properties
+*.bak
+*.iml
+*.ipr
+*.iws
+*.processed
+*.swp
+.ant_targets
+.ant-targets-build.xml
+.gh.json
+.sass-cache
+.sass_cache_*.css
+_sass_cache_*.css
+
+/.bnd
+/.gradle
+/.ivy
+
+/*/*/bin
+/*/*/classes
+/*/*/javadoc
+/*/*/temp
+/*/*/test-classes
+/*/*/test-results
+/*/*/tmp
+
+/*/*/docroot/WEB-INF/classes
+/*/*/docroot/WEB-INF/lib/portal-compat-shared.jar
+
+/baseline-reports
+/build.*.properties
+/dist
+
+/hooks/*/test/integration/arquillian.xml
+
+/portlets/*/test/integration/arquillian.xml
+
+/themes/*/docroot/css
+/themes/*/docroot/images
+/themes/*/docroot/js
+/themes/*/docroot/layouttpl
+/themes/*/docroot/templates
+/themes/*/docroot/WEB-INF/lib
+/themes/*/docroot/fonts
+
+/tools/*/*/*/lib
+/tools/node*
+
+
